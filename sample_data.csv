@@ -1,0 +1,21 @@
+employee_id,name,department,salary,age,joining_date,city,performance_score,is_active
+101,Aarav Sharma,Engineering,85000,28,2021-03-15,Delhi,4.5,True
+102,Priya Mehta,Marketing,62000,32,2019-07-22,Mumbai,3.8,True
+103,Rohan Verma,Engineering,92000,35,2018-01-10,Bangalore,4.7,True
+104,Sneha Iyer,HR,54000,27,2022-05-30,Chennai,4.1,True
+105,Kunal Joshi,Finance,71000,30,2020-11-18,Pune,3.5,False
+106,Ananya Singh,Engineering,88000,29,2021-08-05,Hyderabad,4.6,True
+107,Vikram Nair,Marketing,67000,34,2018-09-14,Delhi,3.9,True
+108,Divya Patel,Finance,74000,31,2019-04-25,Ahmedabad,4.2,True
+109,Arjun Kapoor,HR,57000,26,2023-01-12,Mumbai,3.7,False
+110,Meera Reddy,Engineering,95000,37,2017-06-08,Bangalore,4.9,True
+111,Siddharth Das,Data Science,105000,33,2020-02-20,Hyderabad,4.8,True
+112,Nisha Gupta,Marketing,60000,28,2022-10-01,Delhi,3.6,True
+113,Rahul Bose,Data Science,98000,36,2019-12-17,Pune,4.4,False
+114,Tanvi Sharma,Engineering,83000,27,2022-03-29,Chennai,4.3,True
+115,Karan Malhotra,Finance,69000,29,2021-07-11,Mumbai,3.8,True
+116,Pooja Tiwari,HR,52000,25,2023-06-15,Delhi,4.0,True
+117,Aditya Kumar,Data Science,110000,38,2016-11-03,Bangalore,4.9,True
+118,Riya Chopra,Marketing,63000,30,2020-08-19,Hyderabad,3.7,False
+119,Manish Sinha,Engineering,89000,32,2019-05-07,Pune,4.5,True
+120,Deepika Rao,Data Science,102000,34,2018-03-22,Mumbai,4.6,True
